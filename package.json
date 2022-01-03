@@ -4,10 +4,10 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "blessed": "^0.1.81"
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.10.1"
   },
   "scripts": {
     "start": "node ./src/main/app.js"
   }
-
 }
