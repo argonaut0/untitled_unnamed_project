@@ -5,7 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "blessed": "^0.1.81",
-    "blessed-contrib": "^4.10.1"
+    "blessed-contrib": "^4.10.1",
+    "lorem-ipsum": "^2.0.4"
   },
   "scripts": {
     "start": "node ./src/main/app.js"
